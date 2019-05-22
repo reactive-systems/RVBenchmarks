@@ -1,4 +1,4 @@
-# A Benchmark For *Some* Runtime Monitors
+# A Benchmark Framework For *Some* Runtime Monitors
 
 We implemented a benchmark tool for runtime monitors. Therefore, we provide two benchmarks, with several specifications. The specifications can be found in natural language. In addition, we translated them to LTL and to theLola specification language if possible.
 
